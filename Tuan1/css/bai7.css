@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+section{
+    width: 700px;
+}
+.d-flex{
+    display: flex;
+}
+.anh{
+    display: flex;
+    width: 600px;
+    height: 90px;
+    justify-content: end;
+    align-items: center;
+}
+
+
+hr{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
