@@ -1,0 +1,15 @@
+input, textarea, select{
+    position: sticky;
+    left: 170px;
+}
+.checkbox{
+    margin-left: 90px;
+}
+.message{
+    display: flex;
+    align-items: center;
+    margin-right: 0 !important;
+}
+.mess{
+    display: flex;
+}
