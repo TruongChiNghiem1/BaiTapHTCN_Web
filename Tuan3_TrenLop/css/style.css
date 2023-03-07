@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .container{
@@ -100,6 +101,7 @@ h5{
     border-radius: 8px;
     border-color: aliceblue;
 }
+
 
 .button{
     width: 200px;
@@ -202,10 +204,10 @@ h5{
 
 .email{
     width: 390px;
-    height: 40px;
+    height: 50px;
 }
 .h-40{
-    height: 45px;
+    height: 55px;
 }
 .w-110{
     width: 110px;
@@ -218,4 +220,10 @@ h5{
 }
 .mb-30{
     margin-bottom: 30px;
+}
+.h-20{
+    height: 20px;
+}
+.w-150{
+    width: 150px;
 }
