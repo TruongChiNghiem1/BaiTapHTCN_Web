@@ -151,6 +151,9 @@ h5{
 .h-580{
     height: 580px;
 }
+.w-580{
+    width: 580px;
+}
 
 .bg-color-footer{
     background-color: #1d2128;
@@ -190,4 +193,29 @@ h5{
 .m-5{
     margin: 5rem 5rem 5rem 5rem;
 
+}
+
+::placeholder{
+    font-size: 1rem;
+    color: rgb(146, 146, 146);
+}
+
+.email{
+    width: 390px;
+    height: 40px;
+}
+.h-40{
+    height: 45px;
+}
+.w-110{
+    width: 110px;
+}
+.mb-10{
+    margin-bottom: 10px;
+}
+.mb-20{
+    margin-bottom: 20px;
+}
+.mb-30{
+    margin-bottom: 30px;
 }
