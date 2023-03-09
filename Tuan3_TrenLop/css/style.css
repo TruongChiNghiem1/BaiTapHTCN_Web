@@ -66,12 +66,14 @@
 }
 
 .color_header{
-    color: #363636;
+    color: #776767;
 }
 
 .fs-13{
     font-size: 1.3rem;
 }
+
+
 
 h1{
     font-size: 4.8rem;
@@ -98,10 +100,18 @@ h5{
 .search{
     width: 258px;
     height: 45px;
-    border-radius: 8px;
-    border-color: aliceblue;
+    border-radius: 0px 10px 10px 0px;
+    border-left: none 0px;
+    border-style: solid;
+    border-color: rgb(172, 172, 172);
 }
-
+.search_products{
+    width: 258px;
+    height: 60px;
+    border-left: none 0px;
+    border-top: 0px;
+    border-color: rgb(255, 255, 255);
+}
 
 .button{
     width: 200px;
@@ -147,6 +157,12 @@ h5{
     align-items: end;
 }
 
+.w-300{
+    width: 300px;
+}
+.color_so{
+    color: #9095a0;
+}
 .w-350{
     width: 250px;
 }
@@ -203,8 +219,24 @@ h5{
 }
 
 .email{
-    width: 390px;
+    width: 350px;
     height: 50px;
+    border-left: 0px;
+    margin-left: -5px;
+    border-radius: 0px 10px 10px 0px;
+    border-color: white;
+}
+.h-50{
+    height: 54px;
+}
+.w-50{
+    width: 55px;
+}
+.button_email{
+    border-color: white;
+    border-right: 0px;
+    border-radius: 10px 0px 0px 10px;
+    margin-top: 2px;
 }
 .h-40{
     height: 55px;
@@ -227,6 +259,69 @@ h5{
 .w-150{
     width: 150px;
 }
-.ml_5{
-    margin-left: -8px;
+.ml_14{
+    margin-left: -14px;
+}
+
+.position-absolute{
+    position: absolute;
+    
+}
+
+.icon_search{
+    height: 45px;
+    width: 45px;
+    background-color: white;
+    border-radius: 10px 0px 0px 10px;
+    border-right: none white 0px;
+    margin-right: -5px;
+    border-color: rgb(172, 172, 172);
+    border-style: solid;
+    color: rgb(172, 172, 172);
+}
+
+.icon_search_product{
+    color: rgb(172, 172, 172);
+    height: 60px;
+    width: 45px;
+    background-color: white;
+    border-right: none white 0px;
+    margin-right: -5px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+}
+
+.bg-color-visible{
+    background-color: rgba(240, 248, 255, 0);
+}
+
+.mt_50{
+    margin-top: -130px;
+}
+.button_subcribe{
+    border-left: 0px;
+    border-radius: 0px 10px 10px 0px;
+}
+
+.h-45{
+    height: 45px;
+}
+
+.best_seller{
+    background-color: #ffc970;
+    /* width: 80px; */
+    text-align: center;
+    border-radius: 10px;
+    padding: 8px 8px 8px 8px;
+    margin-left: 160px;
+    margin-top: 10px;
+    position: absolute;
+    font-size: 0.8rem;
+}
+.margin_new{
+    margin-left: 190px;
+}
+
+.ml-10{
+    margin-left: 10px;
 }
