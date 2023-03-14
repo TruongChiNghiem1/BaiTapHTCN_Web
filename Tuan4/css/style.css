@@ -201,7 +201,7 @@
     height: 30px;
     top: 670px;
     font-size: 0.8rem;
-    left: 920px;
+    left: 930px;
 }
 
 .right_top_img3{
@@ -258,4 +258,16 @@
 
 .w-400{
     width: 400px;
+}
+
+.fw-bold{
+    font-weight: bold;
+}
+
+.fs-08{
+    font-size: 0.8rem;
+}
+
+.ml-50{
+    margin-left: 60px;
 }
