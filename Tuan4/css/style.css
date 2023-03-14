@@ -271,3 +271,15 @@
 .ml-50{
     margin-left: 60px;
 }
+
+.search{
+    width: 300px;
+    height: 40px;
+    border-width: 0px;
+    background-color: #f0f0f0;
+    border-radius: 3px;
+}
+
+::placeholder{
+    color: #363636;
+}
