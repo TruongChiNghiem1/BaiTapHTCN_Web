@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.w-1440{
+    width: 1440px;
+    padding-top: 4rem;
+    /* padding-bottom: 4rem; */
+}
+
+.d-flex{
+    display: flex;
+}
+
+.flex-column{
+    flex-direction: column;
+}
+
+
+.justify-content-between{
+    justify-content: space-between;
+}
+
+.justify-content-around{
+    justify-content: space-around;
+}
+
+.justify-content-center{
+    justify-content: center;
+}
