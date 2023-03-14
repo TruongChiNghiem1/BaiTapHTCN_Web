@@ -283,3 +283,21 @@
 ::placeholder{
     color: #363636;
 }
+
+.add{
+    border-style: solid;
+    border-color: red;
+    border-radius: 5px;
+    width: 75px;
+    height: 35px;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    color: red;
+    border-width: 1px;
+}
+
+.comment{
+    /* background-color: #eeeeee; */
+    /* padding: 10px; */
+}
