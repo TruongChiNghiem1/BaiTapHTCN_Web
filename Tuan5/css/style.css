@@ -202,3 +202,54 @@ h1{
 h3{
     font-size: 2rem;
 }
+
+.w_330{
+    width: 330px;
+}
+
+.w-50{
+    width: 50%;
+}
+
+.mr_10{
+    margin-right: 10px;
+}
+.imgavt{
+    width: 50px;
+}
+
+.mb_50{
+    margin-bottom: 50px;
+}
+
+hr{
+    border-color: #ffffff;
+    color: #ffffff;
+}
+
+.mt_40{
+    margin-top: 40px;
+}
+
+.fs-15{
+    font-size: 1.8rem;
+}
+
+.img_card{
+    width: 350px;
+}
+
+.h_20{
+    height: 20px;
+}
+
+.h_30{
+    height: 30px;
+}
+
+.fs-13{
+    font-size: 1.3rem;
+}
+.mt_99{
+    margin-top: 100px;
+}
