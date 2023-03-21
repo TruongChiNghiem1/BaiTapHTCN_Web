@@ -253,3 +253,65 @@ hr{
 .mt_99{
     margin-top: 100px;
 }
+
+.w_1000{
+    width: 1000px;
+}
+
+.logo_footer{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.w_150{
+    width: 150px;
+}
+
+.title_footer{
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+.input_email{
+    width: 350px;
+    height: 40px;
+    border: #143b97;
+    background-color: #f3f4f6;
+    border-radius: 3px;
+}
+
+.button_subcribe{
+    width: 150px;
+    height: 40px;
+    background-color: #00bdd6;
+    border-color: #00bdd6;
+    border-radius: 3px;
+    color: white;
+    font-size: 1.1rem;
+}
+
+.mb_80{
+    margin-bottom: 80px;
+}
+.mb_100{
+    margin-bottom: 100px;
+}
+
+.w_405{
+    width: 405px;
+}
+.w_250{
+    width: 250px;
+}
+
+.w_40{
+    width: 30px;
+}
+
+.select_language{
+    background-color: #f3f4f6;
+    border: none;
+    width: 130px;
+    height: 40px;
+}
